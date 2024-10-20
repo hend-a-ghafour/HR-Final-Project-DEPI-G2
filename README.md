@@ -1,8 +1,13 @@
 # HR-Final-Project-DEPI
 The final project at the DEPI Course
-***Track :*** Data Analysis Specialist (ALX-DAT1-G2e)
-***Project Group Number:*** 3
-***Team:***
+
+#### ***Track :*** 
+Data Analysis Specialist
+ (ALX-DAT1-G2e)
+
+#### ***Project Group Number:*** 
+3
+#### ***Team:***
 - Hend Mohammed Abd El-Ghafour
 - Marina Nabil Farag
 - Esraa Ashraf Othman
